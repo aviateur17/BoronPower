@@ -1,2 +1,2 @@
 # BoronPower
-Send power status to Pushover via Cell on Boron board
+Send power status to Pushover via Cellular connection on Particle Boron board
